@@ -1,0 +1,12 @@
+{
+  "name": "05.javascript-oop",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha -- **/*.spec.js"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
